@@ -11,8 +11,8 @@ This repository contains code used in the Using Python for Research course on Ha
 
 This repo includes code for all homework assignments and for the case studies written in class, as well as the corresponding data. It additionally contains a submission for the final project, in which the student was tasked with predicting physical activity based on a dataset of x, y, and z accelerations and corresponding training set labels. 10-fold cross-validation and a parameter search using a random forest classifier was used for the final model. All assignments are in the form of Jupyter notebooks. The following summarizes the topics covered by each .ipynb file:
 
-HW 1: Counting letter frequencies in text, approximating pi using random sampling, smoothing via nearest-neighbor averaging
-HW 2: Making a working tic-tac-toe game with random and semi-strategic AI
+HW 1: Counting letter frequencies in text, approximating pi using random sampling, smoothing via nearest-neighbor averaging  
+HW 2: Making a working tic-tac-toe game with random and semi-strategic AI  
 Case Study 1: DNA translation- downloading nucleotide sequences from NCBI and using an amino acid translation table to predict the resulting AA sequence
 HW 3-1: Implementing a Caesar cipher
 Case Study 2: Language processing- analyzing word frequency statistics in texts from different languages
